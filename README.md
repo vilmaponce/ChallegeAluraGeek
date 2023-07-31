@@ -1,0 +1,6 @@
+# ChallegeAluraGeek![Captura de pantalla 2023-07-31 135926](https://github.com/vilmaponce/ChallegeAluraGeek/assets/115092661/1b4f48ed-ebc1-42ea-b076-38a62f652dcb)
+![Captura de pantalla 2023-07-31 135745](https://github.com/vilmaponce/ChallegeAluraGeek/assets/115092661/f80444f6-f3b7-41e7-a853-7d0cf1f623a7)
+![Captura de pantalla 2023-07-31 135324](https://github.com/vilmaponce/ChallegeAluraGeek/assets/115092661/9182f2a5-486a-44b7-a0fb-50e20fd1cc0b)
+![Captura de pantalla 2023-07-31 135343](https://github.com/vilmaponce/ChallegeAluraGeek/assets/115092661/8ba6e236-0fa9-4003-bb85-f9045dbef89d)
+![Captura de pantalla 2023-07-31 135407](https://github.com/vilmaponce/ChallegeAluraGeek/assets/115092661/acdeb8cf-d586-41ed-85c1-188076493f98)
+![Captura de pantalla 2023-07-31 135430](https://github.com/vilmaponce/ChallegeAluraGeek/assets/115092661/4bdd6c48-e287-4592-b822-7d5bcece43dc)
