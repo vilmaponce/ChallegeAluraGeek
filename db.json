@@ -1,0 +1,28 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "correo": "ejemplo@correo.com",
+      "categoria": "Electrónica",
+      "precio": 100,
+      "descripcion": "Descripción del producto 1"
+    },
+    {
+      "id": 2,
+      "correo": "otro@correo.com",
+      "categoria": "Ropa",
+      "precio": 50,
+      "descripcion": "Descripción del producto 2"
+    },
+    {
+      "id": 3,
+      "correo": "nuevo@correo.com",
+      "categoria": "Electrónica",
+      "precio": 200,
+      "descripcion": "Descripción del nuevo producto"
+    }
+  ]
+}
+
+
+

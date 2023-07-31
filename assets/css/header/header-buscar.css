@@ -1,0 +1,63 @@
+
+.header__buscar {
+    display: flex;
+    width: 24.5625rem;
+    padding: 0.5rem 1rem;
+    align-items: center;
+    border-radius: 1.25rem;
+    background: #F5F5F5;
+    justify-content: space-between;
+    position: relative;
+    overflow: hidden;
+    transition: box-shadow 0.3s, background-color 0.3s;
+}
+
+.header__buscar::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.3);
+    opacity: 0;
+    z-index: -1;
+    transition: opacity 0.3s;
+}
+
+.header__buscar:hover {
+    background-color: #E0E0E0; /* Color clarito al acercar */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Sombra al acercar */
+}
+
+.header__buscar:hover::before {
+    opacity: 1;
+}
+
+.header__input {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    background-color: transparent; /* Fondo transparente para que se vea el efecto de profundidad */
+    outline: none;
+}
+
+
+
+@media (max-width: 768px) {
+    .header__buscar {
+        width: 17rem;
+        height: 3rem;
+    }
+    
+}
+
+@media (max-width: 617px) {
+    .header__buscar {
+        order: 2;
+        background: none;
+        width: auto;
+    }
+}

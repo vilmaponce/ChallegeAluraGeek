@@ -1,0 +1,5 @@
+.producto__barra__lista__item__imagen {
+    flex: 1 0 0;
+    align-self: stretch;
+}
+
